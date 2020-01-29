@@ -5,10 +5,10 @@
 *Sometimes, you will find that your data contains coordinates, but that you would also like a location format that can be more easily digested by humans*
 
 
-#####Nominatim#####
+##### Nominatim #####  
 [Nominatim](https://nominatim.openstreetmap.org/) is a free search engine for OpenStreetMap data.
 
-#####GeoPy#####
+##### GeoPy #####  
 [GeoPy](https://geopy.readthedocs.io/en/stable/) allows you to easily use third party geocoders in python.
 
 
