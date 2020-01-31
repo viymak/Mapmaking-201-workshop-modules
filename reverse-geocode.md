@@ -12,5 +12,26 @@
 [GeoPy](https://geopy.readthedocs.io/en/stable/) allows you to easily use third party geocoders in python.
 
 
-`from geopy.geocoders import Nominatim`  
-`from geopy.extra.rate_limiter import RateLimiter` #optional for our purposes
+### Basic Syntax:
+
+<!-- tabs:start -->
+
+#### ** Example **
+
+`from geopy.geocoders import Nominatim    
+from geopy.extra.rate_limiter import RateLimiter #optional for our purposes since we have so few addresses
+
+#One Address
+
+#Loop through Addresses
+`
+
+
+#### ** Tutorial **
+``
+
+#### ** Answer **
+``
+
+
+<!-- tabs:end -->
